@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f0; 
+}
+
+a {
+    color: blue; 
+}
+
+a:hover {
+    color: red; 
+}
+
+#footer {
+    position: fixed; 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #a89974; 
+    color: black;
+    text-align: center;
+    padding: 10px 0; 
+}
